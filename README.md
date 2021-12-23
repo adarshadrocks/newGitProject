@@ -1,0 +1,2 @@
+# newGitProject
+For docker practice
